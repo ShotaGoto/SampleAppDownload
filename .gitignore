@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/WebApi/bin
+/WebApi/fonts/glyphicons-halflings-regular.woff2
+/WebApi/fonts/glyphicons-halflings-regular.woff
+/WebApi/fonts/glyphicons-halflings-regular.ttf
+/WebApi/fonts/glyphicons-halflings-regular.svg
+/WebApi/fonts/glyphicons-halflings-regular.eot
