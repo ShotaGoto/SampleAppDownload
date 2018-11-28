@@ -10,5 +10,7 @@
 
   <ItemGroup>
     <Folder Include="Extentions\Function\" />
+    <Folder Include="Services\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 </Project>

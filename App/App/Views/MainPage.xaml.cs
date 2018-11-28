@@ -26,7 +26,7 @@ namespace App.Views
             //fileを取得
             using (var Apk = await ApiClient.GetDownloadAsync())
             {
-                //APｋファイルを保存
+                //APKファイルを保存
                 TextFileIO.ApkSave(Apk);
             }
             //APKファイル実行
