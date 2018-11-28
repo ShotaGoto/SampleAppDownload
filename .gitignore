@@ -292,4 +292,7 @@ __pycache__/
 *.xsd.cs
 /WebApp/Mvc/App_Data/Temp
 
-*.bin
+bin/
+obj/
+Debug/
+Release/
