@@ -32,5 +32,15 @@ namespace App.Views
             //APKファイル実行
             DependencyService.Get<IInstallApp>().Run();
         }
+
+        /// <summary>
+        /// 例外発生処理
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Exception_Click(object sender, EventArgs e)
+        {
+            throw new Exception();
+        }
     }
 }
