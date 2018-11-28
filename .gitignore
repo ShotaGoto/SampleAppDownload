@@ -291,3 +291,5 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 /WebApp/Mvc/App_Data/Temp
+
+*.bin
